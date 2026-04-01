@@ -82,8 +82,8 @@ if(form){
   bd.className = 'modal-backdrop';
   bd.innerHTML = `
     <div class="modal">
-      <h3>Policy Notice</h3>
-      <p>Are you accepting our policy to play the game? This notice is informational and does not block access.</p>
+      <h3>Aviso de Política</h3>
+      <p>Aceptas nuestra política para jugar el juego? Este aviso es informativo y no bloquea el acceso.</p>
       <div style="display:flex;gap:10px;flex-wrap:wrap">
         <button class="btn" id="age-yes">Yes, Accept</button>
         <button class="btn ghost" id="age-no">Close</button>
